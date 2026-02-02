@@ -1,0 +1,9 @@
+langchain
+langchain-ollama
+langchain-chroma
+langchain-text-splitters
+whisper-openai  
+torch          
+pymupdf        
+chromadb
+rank-bm25
